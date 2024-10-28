@@ -3,12 +3,17 @@
 Project organization
 The project is to be realized in group of two or three students. The project: the report + code and data files used are to be sent by mail by November 15, 2024 to vincent.mousseau@centralesupelec.fr.
 The work consists of:
+
 • Describe the situation and the decision problem (stakeholders, issues, data, ...)
+
 • Specify the set of choices and the evaluation criteria,
+
 • Compute efficient solutions,
+
 • Discriminate solutions by an additive model
 
 • Analyze the limitations of the proposed model.
+
 Each group will seek to provide some answers to the following questions:
 1. Do the obtained solutions have properties that are worth bringing to the attention of the decision maker?
 2. Discuss the properties of the current solution in comparison to the solutions you have obtained.
